@@ -1,0 +1,15 @@
+{
+  "type": "code",
+  "Modid": "fantasycreatures",
+  "TextureSize": 32,
+  "Type": "code",
+  "Name": "Fantasy Creatures Mod",
+  "Version": "0.7.1",
+  "NetworkVersion": null,
+  "Description": "Brings Fantasy Creatures into Vintage Story",
+  "Authors": [ "Kiptrix" ],
+  "RequiredOnClient": true,
+  "RequiredOnServer": true,
+  "Dependencies": {},
+  "Website": ""
+}

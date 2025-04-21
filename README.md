@@ -1,6 +1,6 @@
 # Fantasy Creatures Mod Patch for Vintage Story 1.20.x
 
-![Original Mod](https://mods.vintagestory.at/fantasycreatures)
+[Original Mod](https://mods.vintagestory.at/fantasycreatures)
 
 My attempt to try to fix the mod to work on version 1.20.x
 ---
